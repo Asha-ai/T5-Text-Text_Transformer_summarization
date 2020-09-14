@@ -1,3 +1,12 @@
+## Types of Text summarization
+Text summarization mainly is of 3 types
+### 1)Based on input type
+Here we can pass single Doc,Multi Doc
+### 2)Based on output type
+Extractive, Abstractive
+### 3)Based on the purpose
+Generic, Domain Specific, Query Based
+
 ## T5-Text-Text_Transformer_summarization
 The Transformer model in NLP has truly changed the way we work with text data
 This is Bart_T5-summarization
