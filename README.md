@@ -17,5 +17,5 @@ T5 is an extremely large new neural network model that is trained on a mixture o
 
 !pip install flask
 
-## Examples Doc
+## text_summarization_t5vsSpacy
 Consists of meetings and its summaries using Spacy and T5
