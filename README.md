@@ -12,5 +12,10 @@ T5 is an extremely large new neural network model that is trained on a mixture o
 
 ## Requirements to download
 !pip install -U transformers
+
 !pip install -U torch
+
 !pip install flask
+
+## Examples Doc
+Consists of meetings and its summaries using Spacy and T5
