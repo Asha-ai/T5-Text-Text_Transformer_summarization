@@ -1,3 +1,4 @@
+### Go through my blog at Medium https://medium.com/@ashaicy99/text-summation-using-transfer-learning-160fa52e10d6
 ## Types of Text summarization
 Text summarization mainly is of 3 types
 ### 1)Based on input type
